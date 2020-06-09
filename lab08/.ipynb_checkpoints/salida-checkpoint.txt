@@ -1,0 +1,4 @@
+1001,Juan Perez,3600
+1002,Maria Gonzales,3400
+1003,Ramon Romero,2500
+1004,Pedro Nogales,3000
